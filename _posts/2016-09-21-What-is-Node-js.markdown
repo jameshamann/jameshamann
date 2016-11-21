@@ -7,9 +7,9 @@ categories: programming javascript
 # What is Node.js?
 
 
-<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 429px;">![](https://cdn-images-1.medium.com/max/800/1*-Nq1fQSPq9aeoWxn4WFbhg.png)</div>
+![](https://cdn-images-1.medium.com/max/800/1*-Nq1fQSPq9aeoWxn4WFbhg.png)
 
- *[https://nodejs.org/en/about/resources/](https://nodejs.org/en/about/resources/)*
+*[https://nodejs.org/en/about/resources/](https://nodejs.org/en/about/resources/)*
 
 
 As this was my first week delving into the world of Node.js I thought I’d do a quick blog post explaining what it actually is, what it does, and why it’s cool.

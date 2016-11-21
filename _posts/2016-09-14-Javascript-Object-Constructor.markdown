@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DataMapper"
+title:  "Javascript Object Constructor"
 date:   2016-09-14
 categories: programming javascript
 ---
