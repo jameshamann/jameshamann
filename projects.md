@@ -18,7 +18,7 @@ An Instagram clone that allows users to comment, as well as like and dislike pho
 
 [Github](https://github.com/jameshamann/pict)
 
-![Pict](http://i.imgur.com/SRabWhu.png)
+![Pict](http://i.imgur.com/SRabWhu.png?2)
 
 ## [Holla](https://holla-yelp-clone.herokuapp.com/)
 
@@ -26,7 +26,7 @@ A Yelp clone, built using Ruby on Rails, PostgreSQL, Bootstrap, RSpec and Capyba
 
 [Github](https://github.com/jameshamann/holla)
 
-![Holla](http://i.imgur.com/Ya5jit1.png)
+![Holla](http://i.imgur.com/Ya5jit1.png?1)
 
 ## MakersBnB
 
@@ -34,7 +34,7 @@ An AirBnB clone built using Node, Javascript, PostgreSQL, Mocha and Chai.
 
 [Github](https://github.com/jameshamann/makersbnb)
 
-![MakersBnB](http://i.imgur.com/5racEKI.png)
+![MakersBnB](http://i.imgur.com/5racEKI.png?1)
 
 
 ## Thermostat
