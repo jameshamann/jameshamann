@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "CRUD"
+date:   2016-09-05
+categories: database, programming
+---
+
+
+# CRUD
+
+
+CRUD Stands for: Create, Read, Update, Delete and they’re basically the four basic functions of persistent database storage. Each word can be mapped to an SQL statement and HTTP request.
+
+**Create**, in SQL is **INSERT**, which is a **PUT/POST** HTPP request.
+
+**Read**, in SQL is **SELECT**, which is a **GET** HTTP request.
+
+**Update**, in SQL is **UPDATE**, which is a **POST/PUT/PATCH** HTTP request.
+
+**Delete**, in SQL is **DELETE**, which is a **DELETE** HTTP request.
+
+So what does this actually mean or do? The CRUD functions allow the user to alter or create data. For example, whenever a user signs up to a website they are **Creating** data, that will persist in the database, so when they return their credentials can be **Read** and accessed, so they are allowed to sign into their profile. At times a user may forget their password, at which point they will want to **Update** their details, or in the event that they choose to leave the website, they may want to **Delete** their details from the system.
+
+Obviously, there are a few more database methods, but these are the basic fundamental ones that are used most often.

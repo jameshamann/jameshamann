@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Environment Variables"
-date:   2016-11-17 13:18:20 +0000
+date:   2016-08-31
 categories: programming
 ---
 
