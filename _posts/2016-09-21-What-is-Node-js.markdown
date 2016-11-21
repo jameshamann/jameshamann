@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is AJAX?"
+title:  "What is Node.js?"
 date:   2016-09-21
 categories: programming javascript
 ---
