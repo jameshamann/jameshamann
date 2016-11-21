@@ -2,7 +2,7 @@
 layout: post
 title:  "DataMapper"
 date:   2016-09-08
-categories: database, programming
+categories: database programming
 ---
 # DataMapper
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "CRUD"
 date:   2016-09-05
-categories: database, programming
+categories: database programming
 ---
 
 
