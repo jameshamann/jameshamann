@@ -31,8 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Muli', sans-serif;
     font-weight: 700;
 }
 
@@ -53,7 +52,7 @@ hr.star-primary:after {
     position: relative;
     top: -.8em;
     padding: 0 .25em;
-    font-family: FontAwesome;
+    font-family: 'Muli', sans-serif;
     font-size: 2em;
 }
 
@@ -97,8 +96,7 @@ header img {
 
 header .intro-text .name {
     display: block;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Muli', sans-serif;
     font-size: 2em;
     font-weight: 700;
 }
@@ -148,8 +146,7 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Muli', sans-serif;
     font-weight: 700;
 }
 
