@@ -2,6 +2,7 @@
 layout: default
 modal-id: 5
 title: Thermostat
+link: https://github.com/jameshamann/thermostat
 date: 2014-07-14
 img: thermostat.png
 alt: image-alt

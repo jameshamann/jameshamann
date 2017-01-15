@@ -2,6 +2,7 @@
 layout: default
 modal-id: 2
 title: Pict
+link: https://github.com/jameshamann/pict
 date: 2014-07-17
 img: pict.png
 alt: image-alt

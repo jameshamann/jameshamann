@@ -2,6 +2,7 @@
 layout: default
 modal-id: 4
 title: MakersBnB
+link: https://github.com/jameshamann/makersBnB
 date: 2014-07-15
 img: makersBnB.png
 alt: image-alt

@@ -2,6 +2,7 @@
 layout: default
 modal-id: 6
 title: TDDectective
+link: https://github.com/jameshamann/TDDetective
 date: 2014-07-15
 img: tddetective.png
 alt: image-alt

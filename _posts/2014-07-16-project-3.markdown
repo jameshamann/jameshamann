@@ -2,6 +2,7 @@
 layout: default
 modal-id: 3
 title: Holla
+link: https://github.com/jameshamann/holla
 date: 2014-07-16
 img: holla.png
 alt: image-alt
