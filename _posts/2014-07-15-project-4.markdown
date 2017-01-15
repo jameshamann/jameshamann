@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+title: MakersBnB
+date: 2014-07-15
+img: makersBnB.png
+alt: image-alt
+project-date: September 2016
+category: Web Development
+description: An AirBnB clone built using Node, Javascript, PostgreSQL, Mocha and Chai.
+
+---

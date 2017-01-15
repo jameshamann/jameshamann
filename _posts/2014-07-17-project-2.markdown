@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+title: Pict
+date: 2014-07-17
+img: pict.png
+alt: image-alt
+project-date: November 2016
+category: Web Development
+description: An Instagram clone that allows users to comment, as well as like and dislike photos. Built using Ruby on Rails, PostgreSQL, Bootstrap, RSpec and Capybara.
+
+---
