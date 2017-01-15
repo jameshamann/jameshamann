@@ -42,13 +42,11 @@ social:
     url: http://twitter.com/jameshamann
   - title: facebook
     url: https://www.facebook.com/james.hamann.50
-  - title: stack-overflow
-    url: http://stackoverflow.com/users/6663753/james-hamann
   - title: github
     url: http://github.com/jameshamann
   - title: soundcloud
     url: https://soundcloud.com/jameshamann
-  - title: bandcamp
+  - title: music
     url: https://jameshamann.bandcamp.com/
 
 # Postal address (add as many lines as necessary)
