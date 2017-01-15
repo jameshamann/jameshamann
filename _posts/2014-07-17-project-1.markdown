@@ -4,7 +4,7 @@ title: Turfy
 modal-id: 1
 date: 2014-07-18
 client: Personal Project
-img: cabin.png
+img: turfy.png
 alt: image-alt
 project-date: November 2016
 category: Web Development
