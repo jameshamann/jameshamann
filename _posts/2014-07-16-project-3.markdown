@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 title: Holla
 date: 2014-07-16
-img: circus.png
+img: holla.png
 alt: image-alt
 project-date: October 2016
 category: Web Development

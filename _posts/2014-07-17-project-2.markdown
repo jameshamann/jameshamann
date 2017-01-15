@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 title: Pict
 date: 2014-07-17
-img: cake.png
+img: pict.png
 alt: image-alt
 project-date: November 2016
 category: Web Development

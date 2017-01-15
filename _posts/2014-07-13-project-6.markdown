@@ -3,7 +3,7 @@ layout: default
 modal-id: 6
 title: TDDectective
 date: 2014-07-15
-img: submarine.png
+img: tddetective.png
 alt: image-alt
 project-date: October 2016
 category: Web Development
