@@ -3,18 +3,18 @@
   <channel>
     <title>James Hamann</title>
     <description>I’m a full stack developer, with a background in Music Technology, who enjoys building applications of all types! I have experience in building applications using Ruby, Javascript and Swift 3. Have a look at my projects if you are interested and follow my blog to keep up to date with what I am currently working on.</description>
-    <link>http://localhost:4000/</link>
+    <link>http://jameshamann.com/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 31 Mar 2017 11:42:37 +0100</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2017 11:42:37 +0100</lastBuildDate>
+    <pubDate>Fri, 31 Mar 2017 11:43:38 +0100</pubDate>
+    <lastBuildDate>Fri, 31 Mar 2017 11:43:38 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Turfy</title>
         <description>An iOS app for location based messaging built using XCode, Swift 3 and Firebase.</description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/18/project-1/</guid>
+        <link>http://jameshamann.com/web%20development/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://jameshamann.com/web%20development/2014/07/18/project-1/</guid>
         
         
         <category>Web Development</category>
@@ -25,8 +25,8 @@
         <title>Pict</title>
         <description>An Instagram clone that allows users to comment, as well as like and dislike photos. Built using Ruby on Rails, PostgreSQL, Bootstrap, RSpec and Capybara.</description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/17/project-2/</guid>
+        <link>http://jameshamann.com/web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://jameshamann.com/web%20development/2014/07/17/project-2/</guid>
         
         
         <category>Web Development</category>
@@ -37,8 +37,8 @@
         <title>Holla</title>
         <description>A Yelp clone, built using Ruby on Rails, PostgreSQL, Bootstrap, RSpec and Capybara.</description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/project-3/</guid>
+        <link>http://jameshamann.com/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://jameshamann.com/web%20development/2014/07/16/project-3/</guid>
         
         
         <category>Web Development</category>
@@ -49,8 +49,8 @@
         <title>MakersBnB</title>
         <description>An AirBnB clone built using Node, Javascript, PostgreSQL, Mocha and Chai.</description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-4/</guid>
+        <link>http://jameshamann.com/web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://jameshamann.com/web%20development/2014/07/15/project-4/</guid>
         
         
         <category>Web Development</category>
@@ -61,8 +61,8 @@
         <title>TDDectective</title>
         <description>A atom package that encourages uses to practice Test Driven Development. Built using Javascript, Jasmine and Atom.</description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-6/</guid>
+        <link>http://jameshamann.com/web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">http://jameshamann.com/web%20development/2014/07/15/project-6/</guid>
         
         
         <category>Web Development</category>
@@ -73,8 +73,8 @@
         <title>Thermostat</title>
         <description>A simple one page Javascript application that acts like a thermostat and uses the OpenWeatherMap API to gather real-time weather for locations around the world. Built using Javascript and Jasmine for the front end and Ruby and Sinatra for the back end.</description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/project-5/</guid>
+        <link>http://jameshamann.com/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://jameshamann.com/web%20development/2014/07/14/project-5/</guid>
         
         
         <category>Web Development</category>
