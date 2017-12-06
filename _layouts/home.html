@@ -9,6 +9,8 @@
         <div class="row center">
           <h5 class="header col s12 light">{{ site.description }}</h5>
         </div>
+        <p style="text-align:center;"><a class="waves-effect waves-light btn grey lighten-4 black-text  z-depth-3" target="_blank" href="{{site.medium}}"><i class="material-icons right">library_books</i>Blog</a></p>
+
         <br><br>
 
       </div>
@@ -28,6 +30,13 @@
 
 </div>
 
+<div class="container" style="padding:20px;">
+  <div id="skills" class="section scrollspy">
+  <h3 style="text-align:center;">Tools and Experience</h3>
+  {% include skills.html %}
+</div>
+</div>
+
   <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
@@ -40,12 +49,7 @@
   </div>
 
 
-<div class="container" style="padding:20px;">
-  <div id="blog" class="section scrollspy">
-  <h3 style="text-align:center;">Blog</h3>
-  {% include blog-feed.html %}
-</div>
-</div>
+
 
 <div class="container" style="padding:20px;">
   <div id="contact" class="section scrollspy">

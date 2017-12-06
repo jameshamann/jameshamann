@@ -13,57 +13,51 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: James Hamann
+name: James Hamann
+email: jameshamann0@gmail.com
+description: Software Developer
+project_one: Searcher
+project_one_description: An iOS/Android App which allows users to search ratings and reviews for TVShows and Movies.
+project_one_url: https://github.com/jameshamann/searcher-reactnative
+project_one_icon: local_movies
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
-project_two: Second Project
-project_two_description: Describe your project!
+project_two: Jekyll Material Theme
+project_two_description: A Jekyll Theme based on Material Design using Materialize, currently being used on this site.
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_icon: web
 
+project_three: Turfy
+project_three_description: A group project building an iOS app for location based messaging using XCode, Swift 3 and Firebase.
+project_three_url: https://github.com/Lawrence-Dawson/turfy
+project_three_icon: location_on
+
+project_four: Pict
+project_four_description: An Instagram clone that allows users to comment, as well as like and dislike photos. Built using Ruby on Rails, PostgreSQL, Bootstrap, RSpec and Capybara.
+project_four_url: https://github.com/jameshamann/pict
 project_button: Github
+project_four_icon: photo_camera
+
 
 github: https://github.com/jameshamann/jekyll-material-theme
 medium: https://medium.com
 
 
 
-baseurl: / #if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
-url: http://localhost:4000/ #the url of your site
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: / # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
+url: http://localhost:4000/ # the url of your site
+medium: https://medium.com/@jameshamann/
+github:  https://github.com/jameshamann
 
 
 
 
 # Build settings
 markdown: kramdown
-# theme: minima
+
 permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-sass-converter
   - jekyll-minifier
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
