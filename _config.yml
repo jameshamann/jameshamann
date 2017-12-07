@@ -17,10 +17,15 @@ title: James Hamann
 name: James Hamann
 email: jameshamann0@gmail.com
 description: Software Developer
+
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
+
 project_one: Searcher
 project_one_description: An iOS/Android App which allows users to search ratings and reviews for TVShows and Movies.
 project_one_url: https://github.com/jameshamann/searcher-reactnative
 project_one_icon: local_movies
+
 
 project_two: Jekyll Material Theme
 project_two_description: A Jekyll Theme based on Material Design using Materialize, currently being used on this site.
@@ -49,6 +54,11 @@ url: https://jameshamann.com # the url of your site
 medium: https://medium.com/@jameshamann/
 github:  https://github.com/jameshamann
 
+google_analytics_tracking_id: UA-110869900-1 # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+
+cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
+
+cookie_accept_message: Thanks!
 
 
 
