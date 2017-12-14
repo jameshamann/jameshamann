@@ -28,7 +28,7 @@ project_one_icon: local_movies
 
 
 project_two: Jekyll Material Theme
-project_two_description: A Jekyll Theme based on Material Design using Materialize, currently being used on this site.
+project_two_description: A Jekyll Gem Theme based on Material Design using Materialize, currently being used on this site.
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: web
 
