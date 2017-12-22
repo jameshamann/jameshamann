@@ -75,7 +75,6 @@ plugins:
   - jekyll-assets
   - jekyll-sass-converter
   - jekyll-minifier
-  - jekyll-display-medium-posts
 
 collections:
   - external_feed
