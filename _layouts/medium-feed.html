@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div id="home" class="section scrollspy">
+  <header class="major">
+      <h2>Blog</h2>
+  </header>
+  {% for e in site.external_feed %}
+    <h2>{{ e.title }}</h2>
+    <p>{{ e.feed_content }}</p>
+  {% endfor %}
+<section class="special">
+  <ul class="actions">
+  <li><a href="{{ site.baseurl }}{{ e.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+  </ul>
+</div>
