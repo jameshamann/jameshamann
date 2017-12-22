@@ -60,6 +60,10 @@ cookies_banner: show # The value "show" will show the cookies banner, the value 
 
 cookie_accept_message: Thanks!
 
+medium_username: jameshamann
+
+
+
 
 
 # Build settings
@@ -71,3 +75,6 @@ plugins:
   - jekyll-assets
   - jekyll-sass-converter
   - jekyll-minifier
+
+collections:
+  - external_feed
