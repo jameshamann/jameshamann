@@ -77,4 +77,4 @@ plugins:
   - jekyll-minifier
 
 collections:
-  - external_feed
+  - medium_posts
