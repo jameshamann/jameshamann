@@ -12,15 +12,14 @@ layout: medium-feed
       <div class="card-image waves-effect waves-block waves-light">
       </div>
       <div class="card-content">
-        <span class="card-title activator grey-text text-darken-4">{{ e.title }}<i class="material-icons right">more_vert</i></span>
+        <span class="card-title activator grey-text text-darken-4" style="text-align:center">{{ e.title }}<i class="material-icons right">more_vert</i></span>
       </div>
       <div class="card-reveal">
-        <span class="card-title grey-text text-darken-4">{{e.title}}<i class="material-icons right">close</i></span>
-        <p>{{e.feed_content}}</p>
+        <span class="card-title grey-text text-darken-4" style="text-align:center">{{e.title}}<i class="material-icons right">close</i></span>
+        <p style="text-align:center">{{e.feed_content}}</p>
       </div>
     </div>
   </div>
-  <a href="{{e.url}}">Hello</a>
 {% endfor %}
   <p style="text-align: center"><a class="waves-effect waves-light btn green darken-2" target="_blank" href="{{site.medium}}"><i class="material-icons right">library_books</i>Read more at Medium</a></p>
 
