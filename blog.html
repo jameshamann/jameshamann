@@ -2,24 +2,25 @@
 layout: medium-feed
 ---
 
-<h2 style="text-align:center"> Latest Blog Posts </h2>
+
+
 
 {% for e in site.medium_posts %}
 
 <div class="row">
-  <div class="col m12">
-    <div class="card large">
-      <div class="card-image waves-effect waves-block waves-light">
-      </div>
-      <div class="card-content">
-        <span class="card-title activator grey-text text-darken-4" style="text-align:center">{{ e.title }}<i class="material-icons right">more_vert</i></span>
-      </div>
-      <div class="card-reveal">
-        <span class="card-title grey-text text-darken-4" style="text-align:center">{{e.title}}<i class="material-icons right">close</i></span>
-        <p style="text-align:center">{{e.feed_content}}</p>
-      </div>
+  <div class="col s10 offset-s1">
+    <h2 style="text-align:center"> Latest Blog Posts </h2>
+    <div class="fixed-action-btn horizontal">
+      <a class="btn-floating btn-large waves-effect waves-default pulse" href="/">
+        <i class="material-icons">arrow_back</i>
+      </a>
     </div>
+
+    <h4 style="text-align:center"><b>{{e.title}}</b></h4>
+    <p>{{e.feed_content}}</p>
   </div>
+</div>
+
 {% endfor %}
   <p style="text-align: center"><a class="waves-effect waves-light btn green darken-2" target="_blank" href="{{site.medium}}"><i class="material-icons right">library_books</i>Read more at Medium</a></p>
 
