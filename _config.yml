@@ -49,8 +49,8 @@ medium: https://medium.com
 
 
 
-baseurl: / # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
-url: https://jameshamann.com # the url of your site
+baseurl: /jameshamann # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
+url: https://jameshamann.github.io # the url of your site
 medium: https://medium.com/@jameshamann/
 github:  https://github.com/jameshamann
 
