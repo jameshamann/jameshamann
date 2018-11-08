@@ -22,8 +22,8 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: Searcher
-project_one_description: An iOS/Android App which allows users to search ratings and reviews for TVShows and Movies.
-project_one_url: https://github.com/jameshamann/searcher-reactnative
+project_one_description: A Web App which allows users to search ratings and reviews for TVShows and Movies. Built using React, deployed on AWS S3 and distributed on AWS CloudFront.
+project_one_url: https://github.com/jameshamann/searcher-react
 project_one_icon: local_movies
 
 
