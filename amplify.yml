@@ -1,0 +1,16 @@
+version: 0.1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - bundle install
+    build:
+      commands:
+        - export MEDIUM_USERNAME=jameshamann
+        - bundle exec jekyll b
+  artifacts:
+    baseDirectory: _site
+    files:
+      - '**/*'
+  cache:
+    paths: []
